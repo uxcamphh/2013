@@ -149,7 +149,7 @@ abbr { text-transform: none; }
 
 /* My own styles ---------------------- */
 .sectioning_light {background:white; padding:60px 0px;}
-.sectioning_dark {background:#f5f5f5; padding:60px 0px;text-align: center;}
+.sectioning_dark {background-image:url('images/noisy_grid.png'); background-repeat:repeat; padding:60px 0px;text-align: center;}
 .platinumsponsors {border:5px #EDEDEF; border-bottom-style:solid;}
 .goldsponsors {border:5px #ffd700; border-bottom-style:solid;}
 .silversponsors {border:5px #E6E8FA; border-bottom-style:solid;}
