@@ -79,32 +79,20 @@ p.lead { font-size: 17.5px; line-height: 1.6; margin-bottom: 17px; }
 
 aside p { font-size: 13px; line-height: 1.35; font-style: italic; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "nimbus-sans-condensed", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: bold; text-rendering: optimizeLegibility; line-height: 1.5; margin-bottom: 14px; margin-top: 14px; }
+h1, h2, h3, h4, h5, h6 { font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: bold; text-rendering: optimizeLegibility; line-height: 1.5; margin-bottom: 14px; margin-top: 14px; }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { font-size: 60%; color: #6f6f6f; line-height: 0; }
 
-h1 { font-size: 50px; }
-
-h2 { font-size: 47px; }
-
-h3 { font-size: 37px; }
-
-h4 { font-size: 33px; }
-
-h5 { font-size: 27px; }
-
-h6 { font-size: 24px; }
-
-/* h1 { font-size: 44px; }
+h1 { font-size: 44px; }
 
 h2 { font-size: 37px; }
 
-h3 { font-size: 27px; }      original
+h3 { font-size: 27px; }      
 
 h4 { font-size: 23px; }
 
 h5 { font-size: 17px; }
 
-h6 { font-size: 14px; }  */
+h6 { font-size: 14px; }
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 22px 0 21px; height: 0; }
 
@@ -148,8 +136,9 @@ abbr { text-transform: none; }
 
 
 /* My own styles ---------------------- */
+.sectioning_top {background:#393635 url('http://www.supersoon.net/uxcamphh/images/uxcamp_header.jpg'); background-size:cover;padding-top: 400px;}
 .sectioning_light {background:white; padding:60px 0px;}
-.sectioning_dark {background:url("images/sponsorlogo_S2.gif") repeat; padding:60px 0px;text-align: center;}
+.sectioning_dark {background:url(images/sponsorlogo_S2.gif) repeat; padding:60px 0px;text-align: center;}
 .platinumsponsors {border:5px #EDEDEF; border-bottom-style:solid;}
 .goldsponsors {border:5px #ffd700; border-bottom-style:solid;}
 .silversponsors {border:5px #E6E8FA; border-bottom-style:solid;}
@@ -375,33 +364,23 @@ p.lead { font-size: 17.5px; line-height: 1.6; margin-bottom: 17px; }
 
 aside p { font-size: 13px; line-height: 1.35; font-style: italic; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "nimbus-sans-condensed", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: bold; text-rendering: optimizeLegibility; line-height: 1.1; margin-bottom: 14px; margin-top: 14px; }
+h1, h2, h3, h4, h5, h6 { font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: bold; text-rendering: optimizeLegibility; line-height: 1.1; margin-bottom: 14px; margin-top: 14px; }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small { font-size: 60%; color: #6f6f6f; line-height: 0; }
 
-h1 { font-size: 50px; }
 
-h2 { font-size: 47px; }
-
-h3 { font-size: 37px; }
-
-h4 { font-size: 33px; }
-
-h5 { font-size: 27px; }
-
-h6 { font-size: 24px; }
-
-
-/* h1 { font-size: 44px; }
+h1 { font-size: 44px; }
 
 h2 { font-size: 37px; }
 
 h3 { font-size: 27px; }
 
-h4 { font-size: 23px; }   original
+h4 { font-size: 23px; }  
 
 h5 { font-size: 17px; }
 
-h6 { font-size: 14px; }  */
+h6 { font-size: 14px; }
+
+
 
 hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 22px 0 21px; height: 0; }
 
