@@ -136,8 +136,8 @@ abbr { text-transform: none; }
 
 
 /* My own styles ---------------------- */
-.sectioning_top {background:#393635 url('http://www.supersoon.net/uxcamphh/images/uxcamp_header.jpg'); background-size:cover;padding-top: 400px;}
-.sectioning_light {background:white; padding:60px 0px;}
+.sectioning_top {background:url(http://www.supersoon.net/uxcamphh/images/uxcamp_header.jpg); background-size:cover;padding-top: 400px;}
+.sectioning_light {background:white url(http://www.supersoon.net/uxcamphh/images/linedpaper.png); padding:60px 0px;}
 .sectioning_dark {background:url(images/sponsorlogo_S2.gif) repeat; padding:60px 0px;text-align: center;}
 .platinumsponsors {border:5px #EDEDEF; border-bottom-style:solid;}
 .goldsponsors {border:5px #ffd700; border-bottom-style:solid;}
